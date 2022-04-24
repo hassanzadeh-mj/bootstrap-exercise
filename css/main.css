@@ -13,3 +13,11 @@
     font-family: "Vazir" !important;
     box-sizing: border-box;
   }
+  .icon{
+    background-color: #ebeafb;
+    color: #0B5ED7;
+    content: "\f585";
+    display: inline-flex;
+    padding: 10px;
+    border-radius: 10px;
+}
