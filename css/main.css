@@ -21,3 +21,10 @@
     padding: 10px;
     border-radius: 10px;
 }
+.card-primary{
+  background-color: #1B2A4E;
+  color: white !important;
+}
+.aslider{
+background-color:#1B2A4E;
+}
